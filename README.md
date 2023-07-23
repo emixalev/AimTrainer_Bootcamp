@@ -1,5 +1,5 @@
 # AimTrainer_Bootcamp
-Akademi için yaptığım "first person shooter" nişan alma pratiği oyunu
+Akademi için yaptığım "first person shooter" nişan alma pratiği oyunu\n
 Oyunun videosu
 https://youtu.be/pKl3k1yk7Sk
 
